@@ -10,15 +10,6 @@ This project is built using [Streamlit](https://streamlit.io/), a powerful tool 
 - **Curated Resources**: A collection of handpicked tutorials, datasets, and tools.
 - **Community Engagement**: A collaborative space for data enthusiasts to connect and grow together.
 
-## Project Structure
-The project structure is organized as follows:
-.
-├── assets/ # Contains images, logos, and other static assets
-├── pages/ # Contains the different page scripts for the app
-├── README.md # Project overview and contribution guidelines
-├── requirements.txt # Python dependencies
-├── app.py # Main entry point for the Streamlit app
-└── .gitignore # Files and directories to be ignored in the repository
 
 ## Getting Started
 
@@ -92,9 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or suggestions, feel free to reach out to the project maintainers or open an issue on GitHub.
-@
-@
-@
+@ to be updated
 
 ---
 Let's build something amazing together!
